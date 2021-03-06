@@ -27,7 +27,7 @@ Prerequisites
 You have to prepare some components before you are able to install the IDPrime Virtual Server.
 Docker
 IDPrime Virtual Server is provided as a Docker image. To install and run the latest release of the Docker software you can follow the documentation on the Docker web site. The cleanest way would be to add the official repo using the “yum-config-manager” which is part of the “yum-utils” and might have to be installed first:
-# yum install -y yum-utils
+# <code>yum install -y yum-utils</code>
 # yum-config-manager --add-repo https://download.docker.com/linux/centos/
 docker-ce.repo
 # yum install docker-ce docker-ce-cli containerd.io
