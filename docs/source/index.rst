@@ -3,18 +3,19 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-========================================================
-Welcome to Thales SME guides and documents
-========================================================
+====================================================
+Welcome to Thales SME Community Guides and Documents
+====================================================
 
 .. toctree::
    :hidden:
-   :maxdepth: 3
+   :maxdepth: 2
    
 
    index
       
 Select a product line to go to the corresponding guides
+=======================================================
 
 	       
 	.. raw:: html
