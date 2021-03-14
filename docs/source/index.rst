@@ -9,13 +9,16 @@ Welcome to Thales SME Community Guides and Documents
 
 .. toctree::
    :hidden:
-   :maxdepth: 2
+   :maxdepth: 3
    
 
    index
+   
+   
       
-Select a product line to go to the corresponding guides
-=======================================================
+Select a product to go to the corresponding guides
+==================================================
+
 
 `IDPrime Virtual <https://sme-guides.readthedocs.io/projects/IDPV/en/latest/>`_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
