@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'IDPV Installation Guide'
+project = 'Thales SME Community Guides and Docs'
 copyright = '2021, Alex Basin'
 author = 'Alex Basin'
 
