@@ -17,10 +17,7 @@ Welcome to Thales SME Community Guides and Documents
 Select a product line to go to the corresponding guides
 =======================================================
 
-	       
-.. raw:: html
-	
-    <a href=<"https://sme-guides.readthedocs.io/projects/IDPV/en/latest/" target="_blank">IDPV</a>
+`IDPV <https://sme-guides.readthedocs.io/projects/IDPV/en/latest/>`_
     
     
 
