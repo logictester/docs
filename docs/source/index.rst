@@ -20,7 +20,7 @@ Select a product to go to the corresponding guides
 ==================================================
 
 
-`IDPrime Virtual <https://sme-guides.readthedocs.io/projects/IDPV/en/latest/>`_
+`IDPrime Virtual <https://safenet.readthedocs.io/projects/idpv/en/latest/>`_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 
