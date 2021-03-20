@@ -9,7 +9,7 @@ Welcome to Thales SME Community Guides and Documents
 
 .. toctree::
    :hidden:
-   :maxdepth: 3
+   :maxdepth: 2
    
 
    index
