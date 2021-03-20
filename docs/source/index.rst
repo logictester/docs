@@ -13,7 +13,7 @@ Welcome to Thales SME Community Guides and Documents
    
 
    index
-   
+   sta
    
       
 Select a product to go to the corresponding guides
