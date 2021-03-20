@@ -13,7 +13,7 @@ Welcome to Thales SME Community Guides and Documents
    
 
    index
-   sta
+   
    
       
 Select a product to go to the corresponding guides
@@ -22,6 +22,10 @@ Select a product to go to the corresponding guides
 
 `IDPrime Virtual <https://sme-guides.readthedocs.io/projects/IDPV/en/latest/>`_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+`SafeNet Trusted Access <https://sme-guides.readthedocs.io/en/latest/sta.html/>`_
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
     
     
 
