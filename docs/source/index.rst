@@ -20,12 +20,14 @@ Select a product to go to the corresponding guides
 ==================================================
 
 
-`IDPrime Virtual <https://safenet.readthedocs.io/projects/idpv/en/latest/>`_
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 
 `SafeNet Trusted Access <https://safenet.readthedocs.io/projects/STA/en/latest/>`_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+`IDPrime Virtual <https://safenet.readthedocs.io/projects/idpv/en/latest/>`_
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
     
     
 
