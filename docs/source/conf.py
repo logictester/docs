@@ -34,7 +34,7 @@ release = '0.0.1'
 
 
 extensions = [
-   
+
 ]
 
 # Add any paths that contain templates here, relative to this directory.
@@ -61,3 +61,4 @@ html_theme_options = {
 
 }
 html_logo = '_static/thales_logo.png'
+html_favicon = 'favicon.ico'
